@@ -1,1 +1,1 @@
-# SoftEtherVPN
+vpngate.net
